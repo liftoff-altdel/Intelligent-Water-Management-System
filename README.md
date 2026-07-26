@@ -86,6 +86,3 @@ Manipal Institute of Technology
 
 
 
-B.Tech – Cyber Physical Systems
-
-Manipal Institute of Technology
